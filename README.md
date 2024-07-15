@@ -7,7 +7,7 @@
 ## Tecnologias que uso no dia a dia
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://gtiAnderson.com)
 
-- Estou cursando Gestão da Tecnologia da Informação 1° semestre
+- Estou cursando Gestão da Tecnologia da Informação 2° semestre
 - Apaixonado por tecnologia
 
 
