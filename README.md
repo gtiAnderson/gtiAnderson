@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h3 align="center">Hello ! I'am Anderson Moreira, all good ? Welcome to my page</h3>
+<h1 align="center">Hello ! I'am Anderson Moreira, all good ? Welcome to my page</h1>
 
 ###
 
-<h3 align="center">Developer Back-End</h3>
+<h2 align="center">Developer Back-End</h2>
 
 ###
 
