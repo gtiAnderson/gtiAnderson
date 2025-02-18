@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">-Software engineer<br>-I'm 18.<br>-I am currently in the 2nd semester of Technology Management.</p>
+<p align="left">-Back End Developer<br>-I'm 18.<br>-I am currently in the 3nd semester of Systems analysis and development.</p>
 
 ###
 
