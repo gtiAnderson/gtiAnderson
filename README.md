@@ -1,67 +1,67 @@
-<h3 align="center">Hi 👋! My name is Anderson Moreira and I'm a Backend Developer</h3>
+<h1 align="center">Hey 👋 All good?</h1>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+<p align="left">
+  • 💻 Desenvolvedor Backend <br>
+  • 🎓 Graduando em Análise e Desenvolvimento de Sistemas <br>
+  • ☁️ <a href="https://www.credly.com/badges/f6a5333d-6d9b-4799-a880-da0e5118e464" target="_blank">1x AWS Certified</a> <br>
+  • ☁️ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A8BAAEAFEB5EAE9DB2AB8E8F22670DCC41CE87199C7EA13CC00F2F1D11EE6254" target="_blank">1x Oracle Certified</a> <br>
+  • 📚 Sempre em busca de evoluir e construir projetos com propósito
+</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="Apache Kafka logo" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="RabbitMQ logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes logo" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB logo" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL logo" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman logo" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@andersonmoreira9433/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/andersonnmoreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" height="27" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.instagram.com/andersonn.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  <a href="https://discordapp.com/users/andersonn.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=plastic" height="27" alt="Discord logo" />
   </a>
-  <a href="www.linkedin.com/in/andersonnmoreira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://instagram.com/andersonn.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=plastic" height="27" alt="Instagram logo" />
+  </a>
+  <a href="https://www.youtube.com/@andersondevprog" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=plastic" height="27" alt="YouTube logo" />
+  </a>
+  <a href="mailto:andersondevprog@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic" height="27" alt="Gmail logo" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gtiAnderson&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtiAnderson&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=gruvbox_light&hide_border=true&order=2&custom_title=Languages%20%E2%80%8B%E2%80%8Band%20Technologies%20used%20" height="150" alt="languages graph"  />
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtiAnderson&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=gtiAnderson&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="Stats graph" />
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gtiAnderson/gtiAnderson/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gtiAnderson/gtiAnderson/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gtiAnderson/gtiAnderson/output/pacman-contribution-graph.svg">
+</picture>
