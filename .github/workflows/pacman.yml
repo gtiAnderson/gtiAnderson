@@ -1,0 +1,16 @@
+name: Generate Pac-Man Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda todos os dias à meia-noite
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Pac-Man graph
+        uses: gtiAnderson/pacman-contribution-graph@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Updated Pac-Man graph"
