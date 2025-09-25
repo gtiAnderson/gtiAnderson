@@ -7,11 +7,11 @@
 ###
 
 <p align="left">
-  • 💻 Desenvolvedor Backend <br>
-  • 🎓 Graduando em Análise e Desenvolvimento de Sistemas <br>
+  • 💻 Backend Developer <br>
+  • 🎓 Undergraduate in Systems Analysis and Development <br>
   • ☁️ <a href="https://www.credly.com/badges/f6a5333d-6d9b-4799-a880-da0e5118e464" target="_blank">1x AWS Certified</a> <br>
   • ☁️ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A8BAAEAFEB5EAE9DB2AB8E8F22670DCC41CE87199C7EA13CC00F2F1D11EE6254" target="_blank">1x Oracle Certified</a> <br>
-  • 📚 Sempre em busca de evoluir e construir projetos com propósito
+  • 📚 Always looking to evolve and build projects with purpose
 </p>
 
 ###
